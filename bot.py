@@ -24,9 +24,9 @@ from google.api_core.client_options import ClientOptions
 # Nota: En producción, estas claves deben almacenarse como 
 # variables de entorno por seguridad
 
-OPENWEATHER_API = "ddd40326a89a5d85a04aac3dd8811047"
-BOT_TOKEN = "8459560874:AAEmevDuABXe3Vhvy2gXw-3vw7XTDLg9cp4"
-GEMINI_API_KEY = "AIzaSyCyaj6JBySNqQqMgXODB5doYQc3t1elYtU"
+OPENWEATHER_API = "api"
+BOT_TOKEN = "token"
+GEMINI_API_KEY = "api_key"
 
 
 # ============================================================
